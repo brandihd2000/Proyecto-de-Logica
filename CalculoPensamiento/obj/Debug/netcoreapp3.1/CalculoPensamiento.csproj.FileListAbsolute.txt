@@ -1,0 +1,14 @@
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\bin\Debug\netcoreapp3.1\CalculoPensamiento.exe
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\bin\Debug\netcoreapp3.1\CalculoPensamiento.deps.json
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\bin\Debug\netcoreapp3.1\CalculoPensamiento.runtimeconfig.json
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\bin\Debug\netcoreapp3.1\CalculoPensamiento.runtimeconfig.dev.json
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\bin\Debug\netcoreapp3.1\CalculoPensamiento.dll
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\bin\Debug\netcoreapp3.1\CalculoPensamiento.pdb
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\obj\Debug\netcoreapp3.1\CalculoPensamiento.csproj.AssemblyReference.cache
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\obj\Debug\netcoreapp3.1\CalculoPensamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\obj\Debug\netcoreapp3.1\CalculoPensamiento.AssemblyInfoInputs.cache
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\obj\Debug\netcoreapp3.1\CalculoPensamiento.AssemblyInfo.cs
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\obj\Debug\netcoreapp3.1\CalculoPensamiento.csproj.CoreCompileInputs.cache
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\obj\Debug\netcoreapp3.1\CalculoPensamiento.dll
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\obj\Debug\netcoreapp3.1\CalculoPensamiento.pdb
+C:\Users\brandi otano\Desktop\Estudios\CalculoPensamiento\CalculoPensamiento\obj\Debug\netcoreapp3.1\CalculoPensamiento.genruntimeconfig.cache
